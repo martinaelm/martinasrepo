@@ -1,0 +1,21 @@
+body {
+	background-color: #00E5FA;
+}
+h1 {
+	color: yellow;
+	text-align: center;
+}
+.intro {
+	font-size:50px;
+	font-family: "comic sans";
+}
+.column1 {
+	background: gray; 
+}
+
+.column2 {
+	background: pink;
+}
+.column3 {
+	background: lightgreen;
+}
